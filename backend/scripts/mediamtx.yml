@@ -1,0 +1,7 @@
+# MediaMTX configuration
+rtspAddress: :8554
+webrtcAddress: :8889
+
+paths:
+  live:
+    source: publisher
